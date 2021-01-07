@@ -1,0 +1,5 @@
+.TextManager > textarea {
+  resize: none;  
+  width: 50vw;
+  height: 85vh;
+}

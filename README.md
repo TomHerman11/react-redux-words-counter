@@ -1,2 +1,5 @@
 # react-redux-word-counter
-My first React app with Redux. A textarea with words, characters and paragraphs counters.
+
+
+### Dev
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
