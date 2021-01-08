@@ -1,4 +1,4 @@
-# react-redux-word-counter
+# react-redux-words-counter
 
 
 ### Dev
