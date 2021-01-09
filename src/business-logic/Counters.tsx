@@ -1,14 +1,22 @@
 import { connect } from 'react-redux';
+import './Counters.css'
 
-// function Counters({ chars, words, sentences, paragraphs }: { chars: number, words: number, sentences: number, paragraphs: number }) {
 function Counters({ counters }: any) {
 
   return (
     <div className="Counters">
-      Characters: {counters.chars}
-      Words: {counters.words}
-      Sentences: {counters.sentences}
-      Paragraphs: {counters.paragraphs}
+      <div className="Counter">
+        Characters: {counters.chars}
+      </div>
+      <div className="Counter">
+        Words: {counters.words}
+      </div>
+      <div className="Counter">
+        Sentences: {counters.sentences}
+      </div>
+      <div className="Counter">
+        Paragraphs: {counters.paragraphs}
+      </div>
     </div>
   );
 }

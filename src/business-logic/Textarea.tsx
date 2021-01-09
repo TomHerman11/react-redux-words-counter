@@ -9,9 +9,8 @@ function Textarea({ textChangedActionDispatcher }: { textChangedActionDispatcher
 
     const textChanged = (event: React.ChangeEvent<HTMLTextAreaElement>) => {
         setText(event.target.value);
-
-        // dispatch a redux action:
-        textChangedActionDispatcher(text);
+        // dispatch a redux action with the new text as payload:
+        textChangedActionDispatcher(event.target.value);
     }
 
     return (
@@ -25,4 +24,5 @@ function Textarea({ textChangedActionDispatcher }: { textChangedActionDispatcher
     );
 }
 
+// pass 'null' as we don't consume data from the redux state
 export default connect(null, { textChangedActionDispatcher })(Textarea);
