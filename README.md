@@ -1,4 +1,6 @@
 # react-redux-words-counter
+My first React app with Redux.
+
 This app can you help you count:
 - characters
 - words
