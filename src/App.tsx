@@ -15,6 +15,7 @@ function App() {
         id="background-credit"
         href="http://www.freepik.com"
         target="_blank"
+        rel="noreferrer"
       >Background image is designed by macrovector / Freepik</a>
     </div>
   );

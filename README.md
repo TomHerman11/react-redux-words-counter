@@ -1,5 +1,12 @@
 # react-redux-words-counter
+This app can you help you count:
+- characters
+- words
+- sentences
+- paragraphs
 
+## Live App
+https://tomherman11.github.io/react-redux-words-counter/
 
-### Dev
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Demo
+![Demo of 'react-redux-words-count' Project](/demo.gif)
