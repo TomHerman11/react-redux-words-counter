@@ -18,7 +18,7 @@ function Textarea({ textChangedActionDispatcher }: { textChangedActionDispatcher
             <textarea
                 value={text}
                 onChange={textChanged}
-                placeholder='Hi! Happy typing :)'
+                placeholder='Happy typing!'
                 autoFocus />
         </div>
     );

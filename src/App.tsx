@@ -11,6 +11,11 @@ function App() {
       </div>
       <Textarea />
       <Counters />
+      <a
+        id="background-credit"
+        href="http://www.freepik.com"
+        target="_blank"
+      >Background image is designed by macrovector / Freepik</a>
     </div>
   );
 }
