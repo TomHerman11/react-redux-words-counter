@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://tomherman11.github.io/react-redux-words-counter/static/css/main.5462b5b6.chunk.css",
+    "main.js": "https://tomherman11.github.io/react-redux-words-counter/static/js/main.cf30e808.chunk.js",
+    "main.js.map": "https://tomherman11.github.io/react-redux-words-counter/static/js/main.cf30e808.chunk.js.map",
+    "runtime-main.js": "https://tomherman11.github.io/react-redux-words-counter/static/js/runtime-main.d65d0246.js",
+    "runtime-main.js.map": "https://tomherman11.github.io/react-redux-words-counter/static/js/runtime-main.d65d0246.js.map",
+    "static/js/2.8e130f6d.chunk.js": "https://tomherman11.github.io/react-redux-words-counter/static/js/2.8e130f6d.chunk.js",
+    "static/js/2.8e130f6d.chunk.js.map": "https://tomherman11.github.io/react-redux-words-counter/static/js/2.8e130f6d.chunk.js.map",
+    "static/js/3.7824799f.chunk.js": "https://tomherman11.github.io/react-redux-words-counter/static/js/3.7824799f.chunk.js",
+    "static/js/3.7824799f.chunk.js.map": "https://tomherman11.github.io/react-redux-words-counter/static/js/3.7824799f.chunk.js.map",
+    "index.html": "https://tomherman11.github.io/react-redux-words-counter/index.html",
+    "static/css/main.5462b5b6.chunk.css.map": "https://tomherman11.github.io/react-redux-words-counter/static/css/main.5462b5b6.chunk.css.map",
+    "static/js/2.8e130f6d.chunk.js.LICENSE.txt": "https://tomherman11.github.io/react-redux-words-counter/static/js/2.8e130f6d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "https://tomherman11.github.io/react-redux-words-counter/static/media/background.52cdab7e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d65d0246.js",
+    "static/js/2.8e130f6d.chunk.js",
+    "static/css/main.5462b5b6.chunk.css",
+    "static/js/main.cf30e808.chunk.js"
+  ]
+}
